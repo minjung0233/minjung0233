@@ -29,7 +29,6 @@ StoLink는 장편 소설 집필에 필요한 복선, 캐릭터 관계, 세계관
 
 **Tech:** `Python` · `Flask` · `MongoDB` · `OpenAI API` · `Pydantic` · `Jinja2` · `JavaScript` · `JWT`
 
-[📘 정글 주요 팀 프로젝트 상세 보기 — Notion](https://app.notion.com/p/2b901f596d1b8088ae63ec09da23d99e?source=copy_link)
 
 ## 🌿 Krafton Jungle · 개인 학습
 
