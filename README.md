@@ -17,6 +17,8 @@ StoLink는 장편 소설 집필에 필요한 복선, 캐릭터 관계, 세계관
 
 [🔗 StoLink 프로젝트 소개](https://github.com/stolink/.github/tree/main/profile)
 
+[🔗 Stolink 노션 정리](https://app.notion.com/p/StoLink-40901f596d1b80acb8bad98e17114364?source=copy_link)
+
 ### 2. 🏋️ 내일은 헬스왕
 
 크래프톤 정글 11기 팀 프로젝트입니다. 인바디 데이터와 운동 목표에 맞춰 AI가 개인별 4주 운동 계획을 만들고, 실제 사용할 수 있는 운동 기구에 맞춘 가이드를 제공하는 웹 서비스입니다.
@@ -29,6 +31,7 @@ StoLink는 장편 소설 집필에 필요한 복선, 캐릭터 관계, 세계관
 
 **Tech:** `Python` · `Flask` · `MongoDB` · `OpenAI API` · `Pydantic` · `Jinja2` · `JavaScript` · `JWT`
 
+[🔗 내일은 헬스왕 노션 정리]([https://app.notion.com/p/StoLink-40901f596d1b80acb8bad98e17114364?source=copy_link](https://app.notion.com/p/3-HealthKing-Tomorrow-40901f596d1b80aea460e590877f3c89?source=copy_link))
 
 ## 🌿 Krafton Jungle · 개인 학습
 
