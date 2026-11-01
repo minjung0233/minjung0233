@@ -1,11 +1,11 @@
-# 안녕하세요, 김민정입니다 👋
+# 안녕하세요, 김민정입니다 
 
 팀 프로젝트에서 풀스택 개발을 경험했고, 크래프톤 정글에서 시스템 프로그래밍과 자료구조·알고리즘을 공부했습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-minjung0233-181717?style=flat-square&logo=github)](https://github.com/minjung0233)
 [![Krafton Jungle](https://img.shields.io/badge/Krafton-Jungle-6B46C1?style=flat-square)](https://github.com/minjung0233/jungle)
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ### 1. 📚 StoLink — 작가를 위한 AI 기반 스토리 관리 플랫폼
 
